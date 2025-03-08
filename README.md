@@ -6,7 +6,7 @@ I am a second-year student in IT. I plan on pursuing a software engineer (SWE) d
 ## 🚀 What I'm Up To
 
 - 🤖 Exploring dotNET exploitation techniques by James Forshaw
-- 💻 Building a Crypter project for commercial use
+- 💻 Building a remote file access solution (open source)
 
 <!--Check out my [coding portfolio!](LINK)-->
 
