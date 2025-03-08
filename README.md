@@ -14,7 +14,7 @@ I am a second-year student in IT. I plan on pursuing a software engineer (SWE) d
 
 I participate in CTF's for fun on hackthebox.
 10th in Canada (at the moment of the last update).
-[Profile](https://app.hackthebox.com/users/1684232)
+[See my profile here](https://app.hackthebox.com/users/1684232)
 
 I sometimes post personal projects on my X profile. 
 
