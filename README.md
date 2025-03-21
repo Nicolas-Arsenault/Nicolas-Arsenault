@@ -5,8 +5,8 @@ I am a second-year student in IT. I plan on pursuing a software engineer (SWE) d
 
 ## 🚀 What I'm Up To
 
-- 🤖 Exploring dotNET exploitation techniques by James Forshaw
-- 💻 Building a remote file access solution (open source)
+- 🤖 Building a zombie video game with Unity in C#
+- 💻 Building a visual checkers game with Java and JavaFX/gradle
 
 <!--Check out my [coding portfolio!](LINK)-->
 
