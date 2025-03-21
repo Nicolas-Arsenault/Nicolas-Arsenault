@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Nicolas Arsenault</h1>
 
 # 💫 About Me:
-I am a second-year student in IT. I plan on pursuing a software engineer (SWE) degree at University Polytechnique (Montreal).
+I am a second-year student in IT. I plan on pursuing a software engineer (SWE) degree.
 
 ## 🚀 What I'm Up To
 
