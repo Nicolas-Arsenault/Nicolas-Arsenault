@@ -7,7 +7,7 @@ I am a second-year student in IT. I plan on pursuing a software engineer (SWE) d
 
 - 🤖 Building a zombie video game with Unity in C#
 - 💻 Building a visual checkers game with Java and JavaFX/gradle
--    Learning about competitive programming 
+- 💻  Learning about competitive programming 
 
 <!--Check out my [coding portfolio!](LINK)-->
 
