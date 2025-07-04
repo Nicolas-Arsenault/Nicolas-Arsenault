@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nicolas Arsenault</h1>
+<h1 align="center">Hi 👋, I'm Nick</h1>
 
 
 
