@@ -1,11 +1,15 @@
-<h1 align="center">Hi 👋, I'm Nick</h1>
+<h1 align="center">Hey, I'm Nick</h1>
 
 
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-🌱 I’m currently learning **System Design and Software Engineering**
+I’m currently learning **System design, Algorithms & Software Engineering**
+A little more about me:
+I'm in love with problem solving. Therefore I like playing board games (especially strategy ones :P), I like mathematics and continuous learning in general (that's why I chose Computer Science). 
+Although I like a lot of nerdy stuff, I enjoy skiing, snowboarding, surfing and basically any sport.
+On the social side, I'd describe myself as someone who is easy to speak to and is cooperative. I like speaking as much as hearing everyone out. I'm just a chill guy lol.
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 
