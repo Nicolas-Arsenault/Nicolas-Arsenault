@@ -2,6 +2,8 @@
 
 #### I'm a Software Engineering Student
 
+I'm actively looking for a Winter 2027 Internship
+
 Data Pipeline Orchestration @ [CEF RAIL](https://www.cefrail.ca/ref=nico);<br>
 CTO @ [Classmo](https://classmo.ca/ref=nico);<br>
 
