@@ -2,12 +2,12 @@
 
 #### I'm a Software Engineering Student
 
-I'm actively looking for a Winter 2027 Internship
+I'm actively looking for a Winter 2028 Internship
 
 Data Pipeline Orchestration @ [CEF RAIL](https://www.cefrail.ca/ref=nico);<br>
 CTO @ [Classmo](https://classmo.ca/ref=nico);<br>
 
-- ⚙️ I use daily: `.java`, `.docker`, `.dotnet`
+- ⚙️ I use daily: `.java`, `.docker`, `.cpp`, `.python`
 - 💬 `ping` me about **Backend**, **Platform Engineering**, **Data Engineering**, **Distributed Systems**, **AI Engineering**
   
 #### 🌐 Socials:
