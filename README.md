@@ -3,8 +3,8 @@
 #### I'm a Software Engineering Student
 
 CTO @ [Classmo](https://classmo.ca/ref=nico);<br>
-SWE Intern @ Nord Quantique
-SWE Intern @ [CEF RAIL]
+SWE Intern @ Nord Quantique <br>
+SWE Intern @ [CEF RAIL] <br>
 
 - ⚙️ I use daily: `.java`, `.cpp`, `.python`
   
