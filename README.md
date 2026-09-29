@@ -1,10 +1,9 @@
-### Hello there 👋
-
-#### I'm a Software Engineering Student
+### Software Engineering Student
 
 CTO @ [Classmo](https://classmo.ca/ref=nico);<br>
-SWE Intern @ Nord Quantique <br>
+Quantum SWE Intern @ Nord Quantique <br>
 SWE Intern @ [CEF RAIL] <br>
+HackTheHill III Winner <br>
 
 - ⚙️ I use daily: `.java`, `.cpp`, `.python`
   
