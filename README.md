@@ -2,7 +2,7 @@
 
 CTO @ [Classmo](https://classmo.ca/ref=nico);<br>
 Quantum SWE Intern @ Nord Quantique <br>
-SWE Intern @ [CEF RAIL] <br>
+Prev SWE Intern @ CEF RAIL <br>
 HackTheHill III Winner <br>
 
 - ⚙️ I use daily: `.java`, `.cpp`, `.python`
