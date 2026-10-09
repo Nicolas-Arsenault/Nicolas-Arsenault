@@ -1,6 +1,6 @@
 # Nicolas Arsenault
 
-Software Engineering student at ÉTS building distributed systems and AI products.
+Software Engineering student @ Ecole De Technologies Superieure.
 
 - CTO & Co-Founder @ [Classmo](https://classmo.ca/)
 - Incoming Software Intern @ Nord Quantique
