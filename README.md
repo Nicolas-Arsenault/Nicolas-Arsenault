@@ -4,7 +4,7 @@ Software Engineering student in Canada
 
 - CTO & Co-Founder @ [Classmo](https://classmo.ca/)
 - Incoming Software Intern @ Nord Quantique
-- Previously Software Engineer Intern @ CEF RAIL
+- Previously 2x Software Engineer Intern @ CEF RAIL
 - Google AI Track winner @ Hack the Hill III
 
 ## Connect
