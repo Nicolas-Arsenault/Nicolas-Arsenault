@@ -1,6 +1,6 @@
 # Nicolas Arsenault
 
-Software Engineering student @ Ecole De Technologies Superieure.
+Software Engineering student in Canada
 
 - CTO & Co-Founder @ [Classmo](https://classmo.ca/)
 - Incoming Software Intern @ Nord Quantique
